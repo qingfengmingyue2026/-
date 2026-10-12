@@ -11,7 +11,7 @@
         },
 {
             "key": "热播影视",
-            "name": "热播 | APP",
+            "name": "皇上",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -23,7 +23,7 @@
         },
         {
             "key": "一起影视",
-            "name": "一起 | APP",
+            "name": "贵妃",
             "type": 3,
             "api": "csp_AppYQK",
             "searchable": 1,
@@ -32,7 +32,7 @@
         },
         {
             "key": "咕噜",
-            "name": "4K | APP",
+            "name": "公主4K",
             "type": 3,
             "api": "csp_Gulu",
             "searchable": 1,
@@ -41,7 +41,7 @@
         },
         {
             "key": "布布",
-            "name": "布布 | APP",
+            "name": "太子",
             "type": 3,
             "api": "csp_YunDuo",
             "searchable": 1,
@@ -58,7 +58,7 @@
         },
     {
             "key": "蓝鹰",
-            "name": "蓝鹰 | APP",
+            "name": "公公",
             "type": 3,
             "api": "csp_AppQi",
             "searchable": 1,
