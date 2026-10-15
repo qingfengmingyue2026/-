@@ -11,7 +11,7 @@
         },
         {
             "key": "热播影视",
-            "name": "皇上",
+            "name": "皇上推荐",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -32,7 +32,7 @@
         },
         {
             "key": "咕噜",
-            "name": "公主4K",
+            "name": "公主4K推荐",
             "type": 3,
             "api": "csp_Gulu",
             "searchable": 1,
