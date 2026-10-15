@@ -4,7 +4,7 @@
 "sites": [
         {
             "key": "豆瓣",
-            "name": "哇塞",
+            "name": "非常哇塞",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
