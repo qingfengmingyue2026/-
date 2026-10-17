@@ -168,35 +168,35 @@
         },
         {
             "key": "七猫短剧",
-            "name": "猫哥短剧",
+            "name": "小猫短剧",
             "type": 3,
             "api": "csp_ShortQimao",
             "genre": "shortdrama"
         },
         {
             "key": "河马短剧",
-            "name": "马哥短剧",
+            "name": "小马短剧",
             "type": 3,
             "api": "csp_ShortHema",
             "genre": "shortdrama"
         },
         {
             "key": "围观短剧",
-            "name": "围哥短剧",
+            "name": "小围短剧",
             "type": 3,
             "api": "csp_ShortWeiguan",
             "genre": "shortdrama"
         },
         {
             "key": "好看短剧",
-            "name": "好哥短剧",
+            "name": "小好短剧",
             "type": 3,
             "api": "csp_ShortHaokan",
             "genre": "shortdrama"
         },
         {
             "key": "星芽短剧",
-            "name": "星哥短剧",
+            "name": "小星短剧",
             "type": 3,
             "api": "csp_ShortXingya",
             "genre": "shortdrama"
