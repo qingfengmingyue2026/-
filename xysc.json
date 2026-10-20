@@ -167,13 +167,6 @@
             "ext": "AppV7Dsx"
         },
         {
-            "key": "红果短剧",
-            "name": "红果短剧",
-            "type": 3,
-            "api": "./py/红果短剧.py",
-            "genre": "shortdrama"
-        },
-        {
             "key": "七猫短剧",
             "name": "小猫短剧",
             "type": 3,
