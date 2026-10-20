@@ -166,5 +166,23 @@
             "changeable": 1,
             "ext": "AppV7Dsx"
         }
-     ]
-   }
+     ],
+  "lives": [
+        {
+            "name": "哇塞",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
+            "timeout": 10,
+            "changeable": 1,
+            "playerType": 2
+        },
+        {
+            "name": "简约",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
+        }
+   
+   ]
+
+}
