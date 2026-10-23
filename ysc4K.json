@@ -51,6 +51,16 @@
             }
         },
         {
+            "key": "as080900-EmbyJS",
+            "name": "帝师4K",
+            "type": 3,
+            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/Emby-as080900.js",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "一起影视",
             "name": "贵妃",
             "type": 3,
