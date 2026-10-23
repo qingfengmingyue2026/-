@@ -70,24 +70,7 @@
             "filterable": 0
         },
         {
-            "key": "布布",
-            "name": "太子",
-            "type": 3,
-            "api": "csp_YunDuo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "host": "https://323433ssdfd.top",
-                "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
-                "aid": "com.web.player",
-                "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
-                "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
-                "sign": "ddtvf65f3a83d6d9ad6f"
-            }
-        },
-        {
-            "name": "大将军",
+            "name": "大将军4K",
             "key": "AppV7Fz",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -98,7 +81,7 @@
             "ext": "AppV7Fz"
         },
         {
-            "name": "二将军",
+            "name": "二将军4K",
             "key": "AppV7Xy",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -142,7 +125,7 @@
             "ext": "AppV7Xnm"
         },
         {
-            "name": "六将军",
+            "name": "六将军4K",
             "key": "AppV7Mtq",
             "type": 3,
             "api": "csp_AppV7Amns",
@@ -164,15 +147,21 @@
             "ext": "AppV7Llq"
         },
         {
+            "key": "布布",
             "name": "八将军",
-            "key": "AppV7Xsz",
             "type": 3,
-            "api": "csp_AppV7Amns",
-            "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
+            "api": "csp_YunDuo",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AppV7Xsz"
+            "filterable": 1,
+            "ext": {
+                "host": "https://323433ssdfd.top",
+                "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+                "aid": "com.web.player",
+                "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+                "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+                "sign": "ddtvf65f3a83d6d9ad6f"
+            }
         },
         {
             "name": "九将军",
