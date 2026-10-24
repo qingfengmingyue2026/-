@@ -3,6 +3,10 @@
         {
             "name": "哈基",
             "url": "https://17264.kstore.space/哈基米.png"
+        },
+        {
+            "name": "TAO经典版",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/refs/heads/main/api/tao.json"
         }
     ]
 }
