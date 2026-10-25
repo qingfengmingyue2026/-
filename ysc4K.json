@@ -115,15 +115,18 @@
             "ext": "AppV7Xyz"
         },
         {
+            "key": "剧圈99",
             "name": "五将军",
-            "key": "AppV7Xnm",
             "type": 3,
-            "api": "csp_AppV7Amns",
-            "jar": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AppV7Xnm"
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://124.221.3.182:19987/app/bn",
+                "versionName": "1.2.0",
+                "name": "剧圈圈",
+                "package": "com.qingtangxiaozhuan.xyz",
+                "buildNumber": "2002",
+                "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+            }
         },
         {
             "name": "六将军4K",
