@@ -80,6 +80,12 @@
             "filterable": 0
         },
         {
+            "key": "影",
+            "name": "公公4K",
+            "type": 3,
+            "api": "https://meow.668yun.top/api/s/NR4CtxMmpYPj4nf1KkkhpDYaH0hX5nC3/影探4K.py"
+        },
+        {
             "name": "大将军4K",
             "key": "AppV7Fz",
             "type": 3,
